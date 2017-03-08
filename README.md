@@ -1,3 +1,11 @@
+# Site is here:
+
+[Explore Filter Bubbles](https://dmarti.github.io/exploreFilterBubble/)
+
+
+## Theme credits follow
+
+
 <a href="http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/" target="_blank"><img src="http://themes.3rdwavemedia.com/wp-content/uploads/2014/07/Responsive-HTML5-CSS3-Website-Template-for-Developers.png" alt="Developer Theme" width="750" /></a>
 
 ##Theme Details & Demo
